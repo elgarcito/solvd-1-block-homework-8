@@ -19,7 +19,7 @@ ProductSupplier: the one that sells the product.
 Client: the one that buys the product.
  */
 
-import com.solvd.hardwarestore.readwritefile.ReadingFile;
+import com.solvd.hardwarestore.read_write_file.ReadingFile;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
